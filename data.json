@@ -1,0 +1,41 @@
+{
+    "Projects": [
+        {
+            "name":"celiacchat.ca",
+            "url":"https://www.celiacchat.ca",
+            "img":"img/cc.png",
+            "bgcolour":"#22abff",
+            "description":[
+                "Fullstack development of celiacchat.ca",
+                "Frontend = Bootstrap to ensure mobile responsive web app",
+                "Backend = Python with Flask framework with relational database"
+            ]
+        },
+        {
+            "name":"YouTube",
+            "url":"https://www.youtube.com/channel/UCgbvfMdVgLnzWwD5vjTSUJw/videos",
+            "img":"img/yt.png",
+            "bgcolour":"#e79300",
+            "description":[
+                "Programmin tutorials include:",
+                "Python",
+                "Node",
+                "Bootstrap"
+            ]
+        },
+        {
+            "name":"Git Hub",
+            "url":"https://github.com/Simon-Fukada",
+            "img":"img/gh.png",
+            "bgcolour":"#81bc26",
+            "description":[
+                "Languages I've developed in:",
+                "Python",
+                "Javascript",
+                "Node",
+                "Java",
+                "C#"
+            ]
+        }
+    ]
+}
