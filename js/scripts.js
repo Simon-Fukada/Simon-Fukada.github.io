@@ -2,8 +2,7 @@
 const navigation = document.querySelector('.main-navigation'),
       siteHeader = document.querySelector('.site-header')
 
-      const fixedNavigation = () => {
-      if(window.innerWidth > 768){
+
             window.onscroll = () => {
                 if(!document.getElementById('mobile-nav').classList.contains('mobile-active')){
                     if(window.scrollY > (siteHeader.clientHeight-100)){
@@ -13,15 +12,8 @@ const navigation = document.querySelector('.main-navigation'),
                     }
                 }
             }
-        } else {
-            document.getElementById('mobile-nav').classList.remove('pt-5')
-        }
-    }
-    fixedNavigation();
 
-    window.addEventListener('resize', function(){
-        fixedNavigation()
-    })
+
 
 
 
