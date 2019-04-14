@@ -8,7 +8,7 @@
             "description":[
                 "Fullstack development of celiacchat.ca",
                 "Frontend = Bootstrap to ensure mobile responsive web app",
-                "Backend = Python with Flask framework with relational database"
+                "Backend = Python with Flask framework, sklearn (For content recommendation) and relational database"
             ]
         },
         {
