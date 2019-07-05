@@ -24,6 +24,17 @@
             ]
         },
         {
+            "name":"Climbing Analytics",
+            "url":"https://climbinganalytics.pythonanywhere.com/",
+            "img":"img/ca.PNG",
+            "bgcolour":"#d138c7",
+            "description":[
+                "Fullstack development of climbinganalytics.pythonanywhere.com/",
+                "Frontend = Bootstrap to and google charts for data visualization",
+                "Backend = Python with Flask framework and relational database"
+            ]
+        },
+        {
             "name":"Git Hub",
             "url":"https://github.com/Simon-Fukada",
             "img":"img/gh.png",

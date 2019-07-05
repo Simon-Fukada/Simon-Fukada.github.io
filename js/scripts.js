@@ -34,8 +34,11 @@ document.getElementById('youtube').addEventListener("click", function(){
     renderTemplate(1)
 })
 
-document.getElementById('github').addEventListener("click", function(){
+document.getElementById('data_app').addEventListener("click", function(){
     renderTemplate(2)
+})
+document.getElementById('github').addEventListener("click", function(){
+    renderTemplate(3)
 })
 
 renderTemplate = (index) => {
