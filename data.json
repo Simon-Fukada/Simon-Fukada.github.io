@@ -30,7 +30,7 @@
             "bgcolour":"#d138c7",
             "description":[
                 "Fullstack development of climbinganalytics.pythonanywhere.com/",
-                "Frontend = Bootstrap to and google charts for data visualization",
+                "Frontend = Bootstrap and google charts for data visualization",
                 "Backend = Python with Flask framework and relational database"
             ]
         },
